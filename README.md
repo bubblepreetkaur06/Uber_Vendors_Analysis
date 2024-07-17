@@ -2,10 +2,10 @@
 _This project centered about the Uber Vendors Dataset_
 * There are 9 columns and 100000 rows.
 * In this project I analyzed :
-  ** Total Trips by each vendor
-  ** Maximum amount received by each vendor
-  ** Maximum distance covered by vendors
-  ** Location having most pickup points etc. 
+  * Total Trips by each vendor
+  * Maximum amount received by each vendor
+  * Maximum distance covered by vendors
+  * Location having most pickup points etc. 
 
 ### 1. Total Trips per Day by Each Vendor
 
