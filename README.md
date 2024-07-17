@@ -13,7 +13,8 @@ This project is using the Dataset "Uber_data.csv" . It contains 19 columns and 1
 
 
 ## Maximum- Distance covered by each vendor
-![image](https://github.com/user-attachments/assets/757b5550-3132-4ee5-80e0-a64ef221e61e)
+![image](https://github.com/user-attachments/assets/7f8236a0-0fdb-49d2-b3d9-1312280c3575)
+
 
 ## 
 
