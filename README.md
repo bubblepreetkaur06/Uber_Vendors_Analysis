@@ -1,7 +1,11 @@
 # Uber_Vendors_Analysis
 _This project centered about the Uber Vendors Dataset_
 * There are 9 columns and 100000 rows.
-* In this project I analyzed the Total Trips by each vendor, maximum amount received by each vendor, Maximum distance covered by vendors, the location having most pickup and drop off points etc. 
+* In this project I analyzed :
+  ** Total Trips by each vendor
+  ** Maximum amount received by each vendor
+  ** Maximum distance covered by vendors
+  ** Location having most pickup points etc. 
 
 ### 1. Total Trips per Day by Each Vendor
 
@@ -35,16 +39,21 @@ _This project centered about the Uber Vendors Dataset_
 
 ### 8. Payment collected by each payment method
 
+![image](https://github.com/user-attachments/assets/2713f7a6-aa95-4066-be0f-0c9d585f8600)
 
 
 
 ### 9. Trips with more than 4 passengers for each vendor
 
+![image](https://github.com/user-attachments/assets/49086ae4-1efe-4dac-81ef-f27a01677ac9)
+
 
 
 ### 10. Avg cost components per trip
 
+![image](https://github.com/user-attachments/assets/43ed4a2e-e15b-4e20-b82a-53d14a3f0c8d)
 
 
 ### 11. Ratings of each type for each vendor
 
+![image](https://github.com/user-attachments/assets/6292cfc6-6812-4bc7-95ba-3a60043e744e)
