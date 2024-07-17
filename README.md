@@ -30,6 +30,21 @@ _This project centered about the Uber Vendors Dataset_
 ### 6. Most common Drop off points and the total trips on that route.
 ![image](https://github.com/user-attachments/assets/cab67d8d-2736-4f40-8359-438eb85c0572)
 
-### Average Fare amount per trip
+### 7. Average Fare amount per trip
 ![image](https://github.com/user-attachments/assets/12f90938-8412-40da-9ada-3da23571e1d8)
+
+### 8. Payment collected by each payment method
+
+
+
+
+### 9. Trips with more than 4 passengers for each vendor
+
+
+
+### 10. Avg cost components per trip
+
+
+
+### 11. Ratings of each type for each vendor
 
